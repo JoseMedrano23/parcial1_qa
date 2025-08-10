@@ -1,0 +1,20 @@
+{
+    "name": "malinremun/parcial_1qa",
+    "description": "Sistema de Inscripciones",
+    "type": "project", 
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "josemedrano"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.0"
+    }
+}
